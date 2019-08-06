@@ -1,0 +1,90 @@
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.dll.config
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.dll
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.pdb
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.dll
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.dll
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.pdb
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.dll.config
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.xml
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csprojAssemblyReference.cache
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csproj.CoreCompileInputs.cache
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csproj.CopyComplete
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.dll
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.pdb
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.dll.config
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.dll
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.pdb
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.dll
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.dll
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.pdb
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.dll.config
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csprojAssemblyReference.cache
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csproj.CopyComplete
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.dll
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.pdb
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.dll.config
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.dll
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.pdb
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.dll
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.SqlServer.dll
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.dll
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.pdb
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.dll.config
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.xml
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.SqlServer.xml
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csprojAssemblyReference.cache
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csproj.CoreCompileInputs.cache
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csproj.CopyComplete
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.dll
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.pdb
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.dll.config
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.dll
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.pdb
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.dll
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.SqlServer.dll
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.dll
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.pdb
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.dll.config
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.xml
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.SqlServer.xml
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csprojAssemblyReference.cache
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csproj.CoreCompileInputs.cache
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csproj.CopyComplete
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.dll
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.pdb
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.dll.config
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.dll
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.pdb
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.dll
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.dll
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.pdb
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.dll.config
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.xml
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csprojAssemblyReference.cache
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csproj.CoreCompileInputs.cache
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csproj.CopyComplete
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.dll
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.negocio.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\OnBreak.datos.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.csproj.CopyComplete
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak.negocio\obj\Debug\OnBreak.negocio.pdb

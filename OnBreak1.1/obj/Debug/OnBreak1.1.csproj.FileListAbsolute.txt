@@ -1,0 +1,248 @@
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csprojAssemblyReference.cache
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminClie.g.cs
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\MainWindow.g.cs
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\App.g.cs
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1_MarkupCompile.cache
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1_MarkupCompile.lref
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.exe.config
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.exe
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.pdb
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\ControlzEx.dll
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.dll
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.dll
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\System.Windows.Interactivity.dll
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.dll
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.dll
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.pdb
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.dll.config
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\ControlzEx.pdb
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.pdb
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.xml
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.pdb
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.dll.config
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.xml
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\App.baml
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminClie.baml
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\MainWindow.baml
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.g.resources
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1._1.Properties.Resources.resources
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.GenerateResource.cache
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.CoreCompileInputs.cache
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.CopyComplete
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.exe
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.pdb
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.SqlServer.dll
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csprojAssemblyReference.cache
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminClie.g.cs
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaClientes.g.cs
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\MainWindow.g.cs
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\App.g.cs
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1_MarkupCompile.cache
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1_MarkupCompile.lref
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.exe
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.pdb
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.exe.config
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.exe
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.pdb
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\ControlzEx.dll
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.dll
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.dll
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.dll
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.dll
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.pdb
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.dll.config
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\ControlzEx.pdb
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.pdb
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.xml
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.pdb
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.dll.config
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\App.baml
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminClie.baml
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaClientes.baml
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\MainWindow.baml
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.g.resources
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1._1.Properties.Resources.resources
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.GenerateResource.cache
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Desktop\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.CopyComplete
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaClientes.g.cs
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaClientes.baml
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminContratos.g.cs
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminContratos.baml
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaContratos.g.cs
+D:\daniel\proyectos  c\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaContratos.baml
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.exe.config
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.exe
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.pdb
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\ControlzEx.dll
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.dll
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.SqlServer.dll
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.dll
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.dll
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\System.Windows.Interactivity.dll
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.dll
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.pdb
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.dll.config
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\ControlzEx.pdb
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.xml
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.SqlServer.xml
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.pdb
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.xml
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.pdb
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.dll.config
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csprojAssemblyReference.cache
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminClie.g.cs
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminContratos.g.cs
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaClientes.g.cs
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaContratos.g.cs
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\MainWindow.g.cs
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\App.g.cs
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1_MarkupCompile.cache
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1_MarkupCompile.lref
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\App.baml
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminClie.baml
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminContratos.baml
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaClientes.baml
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaContratos.baml
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\MainWindow.baml
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.g.resources
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1._1.Properties.Resources.resources
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.GenerateResource.cache
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.CoreCompileInputs.cache
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.CopyComplete
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.exe
+F:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.pdb
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.exe.config
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.exe
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.pdb
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\ControlzEx.dll
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.dll
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.SqlServer.dll
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.dll
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.dll
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\System.Windows.Interactivity.dll
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.dll
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.pdb
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.dll.config
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\ControlzEx.pdb
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.xml
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.SqlServer.xml
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.pdb
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.xml
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.pdb
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.dll.config
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csprojAssemblyReference.cache
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminClie.g.cs
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminContratos.g.cs
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaClientes.g.cs
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaContratos.g.cs
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\MainWindow.g.cs
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\App.g.cs
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1_MarkupCompile.cache
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1_MarkupCompile.lref
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\App.baml
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminClie.baml
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminContratos.baml
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaClientes.baml
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaContratos.baml
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\MainWindow.baml
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.g.resources
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1._1.Properties.Resources.resources
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.GenerateResource.cache
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.CoreCompileInputs.cache
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.CopyComplete
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.exe
+G:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.pdb
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.exe.config
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.exe
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.pdb
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\ControlzEx.dll
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.dll
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.dll
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.dll
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\System.Windows.Interactivity.dll
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.dll
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.pdb
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.dll.config
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\ControlzEx.pdb
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.xml
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.pdb
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.xml
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.pdb
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.dll.config
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csprojAssemblyReference.cache
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminClie.g.cs
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminContratos.g.cs
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaClientes.g.cs
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaContratos.g.cs
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\MainWindow.g.cs
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\App.g.cs
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1_MarkupCompile.cache
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1_MarkupCompile.lref
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\App.baml
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminClie.baml
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminContratos.baml
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaClientes.baml
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaContratos.baml
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\MainWindow.baml
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.g.resources
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1._1.Properties.Resources.resources
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.GenerateResource.cache
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.CoreCompileInputs.cache
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.CopyComplete
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.exe
+D:\Proyectos c# wpf\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminClie.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminContratos.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaClientes.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaContratos.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\App.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1_MarkupCompile.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1_MarkupCompile.lref
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak1.1.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\ControlzEx.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.negocio.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\ControlzEx.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\MahApps.Metro.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\bin\Debug\OnBreak.datos.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\App.baml
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminClie.baml
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\AdminContratos.baml
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaClientes.baml
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\ListaContratos.baml
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.g.resources
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1._1.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\OnBreak1.1.csproj.CopyComplete
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\CenasWPF.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\Cocktail.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\CoffeBreakWPF.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\CenasWPF.baml
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\Cocktail.baml
+C:\Users\Daniel\Documents\Visual Studio 2017\SolucionOnBreak1.1\OnBreak1.1\obj\Debug\CoffeBreakWPF.baml

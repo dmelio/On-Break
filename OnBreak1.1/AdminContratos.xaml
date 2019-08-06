@@ -1,0 +1,92 @@
+﻿<Controls:MetroWindow x:Name="AdminContrato1" x:Class="OnBreak1._1.AdminContratos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnBreak1._1"
+        mc:Ignorable="d"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="OnBreak - Administracion De Contratos" Height="628.571" Width="958.241" WindowStartupLocation="CenterScreen" Background="#FF2C2A2A" FontSize="14" Icon="imagenes/dark_logo_transparent_background.png" ResizeMode="NoResize">
+    <Grid x:Name="dpFechaCreacion">
+        <Label Content="Numero Contrato" HorizontalAlignment="Left" Margin="272,62,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rut Cliente" HorizontalAlignment="Left" Margin="272,110,0,0" VerticalAlignment="Top"/>
+        <Label Content="Razón Social" HorizontalAlignment="Left" Margin="272,161,0,0" VerticalAlignment="Top"/>
+        <Label Content="Tipo Evento" HorizontalAlignment="Left" Margin="272,209,0,0" VerticalAlignment="Top"/>
+        <Label Content="Fecha Creación" HorizontalAlignment="Left" Margin="273,262,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.489,0.535"/>
+        <Label Content="Fecha Termino" HorizontalAlignment="Left" Margin="272,310,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.185,0.683"/>
+        <Label Content="Modalidad" HorizontalAlignment="Left" Margin="273,367,0,0" VerticalAlignment="Top"/>
+        <Label Content="Fecha y hora inicio" HorizontalAlignment="Left" Margin="285,428,0,0" VerticalAlignment="Top"/>
+        <Label Content="Fecha y hora termino" HorizontalAlignment="Left" Margin="284,476,0,0" VerticalAlignment="Top"/>
+        <Label Content="Cantidad Asistentes" HorizontalAlignment="Left" Margin="644,67,0,0" VerticalAlignment="Top"/>
+        <Label Content="Personal adicional" HorizontalAlignment="Left" Margin="644,115,0,0" VerticalAlignment="Top"/>
+        <Label Content="Vigente" HorizontalAlignment="Left" Margin="644,167,0,0" VerticalAlignment="Top"/>
+        <Label Content="Total a Pagar" HorizontalAlignment="Left" Margin="644,219,0,0" VerticalAlignment="Top"/>
+        <Label Content="Observaciones" HorizontalAlignment="Left" Margin="643,270,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNumCont" HorizontalAlignment="Left" Height="23" Margin="422,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" IsReadOnlyCaretVisible="True" IsEnabled="False"/>
+        <TextBox x:Name="txtRutClie" HorizontalAlignment="Left" Height="23" Margin="422,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158"/>
+        <TextBox x:Name="txtRazonSocial" HorizontalAlignment="Left" Height="23" Margin="422,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158"/>
+        <ComboBox x:Name="cbxTipoEvento" HorizontalAlignment="Left" Margin="422,212,0,0" VerticalAlignment="Top" Width="158" SelectionChanged="CbxTipoEvento_SelectionChanged_1"/>
+        <DatePicker x:Name="dpFechaCreacion1" HorizontalAlignment="Left" Margin="422,262,0,0" VerticalAlignment="Top" Width="158" SelectedDateFormat="Short" IsTodayHighlighted="False"/>
+        <DatePicker x:Name="dpFechaTermino" HorizontalAlignment="Left" Margin="422,313,0,0" VerticalAlignment="Top" Width="157"/>
+        <ComboBox x:Name="cbxModalidad" HorizontalAlignment="Left" Margin="422,367,0,0" VerticalAlignment="Top" Width="157"/>
+        <DatePicker x:Name="dpHoraIni" HorizontalAlignment="Left" Margin="422,431,0,0" VerticalAlignment="Top" Width="158"/>
+        <DatePicker x:Name="dpHoraTer" HorizontalAlignment="Left" Margin="422,479,0,0" VerticalAlignment="Top" Width="158"/>
+        <TextBox x:Name="txtCantAsis" HorizontalAlignment="Left" Height="23" Margin="781,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158"/>
+        <TextBox x:Name="txtPersonalAd" HorizontalAlignment="Left" Height="23" Margin="781,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158"/>
+        <TextBox x:Name="txtObs" HorizontalAlignment="Left" Height="192" Margin="643,313,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="295" RenderTransformOrigin="0.832,0.17"/>
+        <CheckBox x:Name="checkVigencia" Content="Es Vigente" HorizontalAlignment="Left" Margin="781,176,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtTotalPagar" HorizontalAlignment="Left" Height="23" Margin="781,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" Text="{Binding Path=ValorTotal}"/>
+        <Grid Margin="0,0,685,0" Background="Black">
+            <Button Name="btnBuscarrut" BorderBrush="#FF2C2A2A" Margin="0,140,0,386" Style="{DynamicResource SquareButtonStyle}" Click="BtnBuscarrut_Click">
+                <DockPanel Width="184">
+                    <Image x:Name="imgBuscarrut" Source="imagenes\IconoBuscar.png" Height="42" Width="42"></Image>
+                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">Buscar Cliente</TextBlock>
+                </DockPanel>
+            </Button>
+            <Button Name="btnListarCont" BorderBrush="#FF2C2A2A" Margin="0,69,0,460" Style="{DynamicResource SquareButtonStyle}" Click="BtnListarCont_Click" >
+                <DockPanel Width="184">
+                    <Image x:Name="imglistacont" Source="imagenes\IconoLista.png" Height="42" Width="42"></Image>
+                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">Ver Lista Contratos</TextBlock>
+                </DockPanel>
+            </Button>
+            <Button Name="btnBuscarnum" BorderBrush="#FF2C2A2A" Margin="0,-1,0,531" Style="{DynamicResource SquareButtonStyle}" Click="BtnBuscarnum_Click">
+                <DockPanel Width="184">
+                    <Image x:Name="imgBuscarnum" Source="imagenes\IconoBuscar.png" Height="42" Width="42"></Image>
+                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">Buscar por Numero</TextBlock>
+                </DockPanel>
+            </Button>
+            <Button Name="btnModificar" BorderBrush="#FF2C2A2A" Margin="0,214,0,307" Style="{DynamicResource SquareButtonStyle}" Click="BtnModificar_Click">
+                <DockPanel Width="184">
+                    <Image x:Name="imgModificar" Source="imagenes\IconoModificar.png" Height="42" Width="42"></Image>
+                    <TextBlock Height="24" Width="79" FontSize="18"> Modificar</TextBlock>
+                </DockPanel>
+            </Button>
+            <Button Name="btnAgregar" BorderBrush="#FF2C2A2A" Margin="0,361,0,157" Style="{DynamicResource SquareButtonStyle}" Click="BtnAgregar_Click" >
+                <DockPanel Width="184">
+                    <Image x:Name="imgAgregar" Source="imagenes\IconoGuardar.png" Height="42" Width="42"></Image>
+                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Height="25" Width="65" FontSize="18">Agregar</TextBlock>
+                </DockPanel>
+            </Button>
+            <Button Name="btnMenu" BorderBrush="#FF2C2A2A" Margin="0,522,0,0" Style="{DynamicResource SquareButtonStyle}" Click="BtnMenu_Click" >
+                <DockPanel Width="184">
+                    <Image x:Name="imgMenu" Source="imagenes\IconoMenuPeq.png" Height="42" Width="42"></Image>
+                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Height="25" Width="65" FontSize="18"> Menu</TextBlock>
+                </DockPanel>
+            </Button>
+            <Button Name="btnCalcular" BorderBrush="#FF2C2A2A" Margin="0,293,0,239" Style="{DynamicResource SquareButtonStyle}" Click="BtnCalcular_Click" >
+                <DockPanel Width="184">
+                    <Image x:Name="imgcalc" Source="imagenes\IconoCalcular.png" Height="42" Width="42"></Image>
+                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">Calcular Valor total</TextBlock>
+                </DockPanel>
+            </Button>
+            <Button Name="btnTerminar" BorderBrush="#FF2C2A2A" Margin="0,443,0,78" Style="{DynamicResource SquareButtonStyle}" Click="BtnTerminar_Click">
+                <DockPanel Width="184">
+                    <Image x:Name="imgterminar" Source="imagenes\IconoEliminar.png" Height="42" Width="42"></Image>
+                    <TextBlock Height="26" Width="106" FontSize="18" HorizontalAlignment="Right" VerticalAlignment="Center"> Terminar</TextBlock>
+                </DockPanel>
+            </Button>
+        </Grid>
+    </Grid>
+</Controls:MetroWindow>

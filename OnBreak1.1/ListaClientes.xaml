@@ -1,0 +1,107 @@
+﻿<Controls:MetroWindow x:Name="ListaCliente" x:Class="OnBreak1._1.ListaClientes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnBreak1._1"
+        mc:Ignorable="d"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="OnBreak - Lista Clientes" Height="540" Width="954.4"
+        BorderThickness="0" 
+        GlowBrush="Black" Icon="Imagenes/dark_logo_transparent_background.png" Background="#FF2C2A2A" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,-6,0">
+        <Grid Margin="0,0,714,0" Background="Black">
+            <Button x:Name="btnmenuprinc" Margin="0,263,0,0" Background="Black" Click="Btnmenuprinc_Click">
+                <Image x:Name="imgMenuPrinc" HorizontalAlignment="Center" Height="248" VerticalAlignment="Center" Width="240" Source="Imagenes/white_logo_dark_background.jpg" Opacity="0.5"/>
+                <Button.ToolTip>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold" >OnBreak</TextBlock>
+                        <TextBlock FontWeight="Bold" FontStyle="Oblique">Cierra ventana lista de clientes</TextBlock>
+                    </StackPanel>
+                </Button.ToolTip>
+            </Button>
+            <Label Margin="95,10,95,467" Content="Filtrar" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="16" Height="34"></Label>
+            <Button Name="btnBuscadorRut" BorderBrush="#FF2C2A2A" Margin="0,49,0,410" Style="{DynamicResource SquareButtonStyle}" Click="BtnBuscadorRut_Click">
+                <DockPanel Height="33" Width="195">
+                    <Image VerticalAlignment="Center" x:Name="imgBuscador" Source="Imagenes\IconoBuscar.png" Width="43" Margin="0,0,0,4"/>
+                    <TextBlock VerticalAlignment="Center" FontSize="14">Filtrar por rut</TextBlock>
+                </DockPanel>
+                <Button.ToolTip>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold">Filtrar por RUT</TextBlock>
+                        <TextBlock FontWeight="Bold" FontStyle="Oblique">Filtra lista de clientes por rut ingresado en el campo "Rut"</TextBlock>
+                    </StackPanel>
+                </Button.ToolTip>
+            </Button>
+            <Button Name="btnFiltrarporte" BorderBrush="#FF2C2A2A" Style="{DynamicResource SquareButtonStyle}" Margin="0,101,0,356" Click="BtnFiltrarporte_Click">
+                <DockPanel Height="33">
+                    <Image VerticalAlignment="Center" x:Name="imgBuscadorte" Source="Imagenes\IconoBuscar.png" Width="43" Margin="0,0,0,4"/>
+                    <TextBlock VerticalAlignment="Center" FontSize="14">Filtrar por Tipo empresa</TextBlock>
+                </DockPanel>
+                <Button.ToolTip>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold">Filtrar tipo Empresa</TextBlock>
+                        <TextBlock FontWeight="Bold" FontStyle="Oblique">Filtra lista de clientes y muestra solo las coincidencias con el tipo de empresa indicado en campo "Tipo Empresa"</TextBlock>
+                    </StackPanel>
+                </Button.ToolTip>
+            </Button>
+            <Button Name="btnFiltrarporAct" BorderBrush="#FF2C2A2A" Style="{DynamicResource SquareButtonStyle}" Margin="0,155,0,302" Click="BtnFiltrarporAct_Click">
+                <DockPanel Height="33" Width="195">
+                    <Image VerticalAlignment="Center" x:Name="imgBuscadoract" Source="Imagenes\IconoBuscar.png" Width="43" Margin="0,0,0,4"/>
+                    <TextBlock VerticalAlignment="Center" FontSize="14">Filtrar por Actividad</TextBlock>
+                </DockPanel>
+                <Button.ToolTip>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold">Filtrar por Actividad</TextBlock>
+                        <TextBlock FontWeight="Bold" FontStyle="Oblique">Filtra lista de clientes y muestra solo las coincidencias con la Actividad indicada en campo "Actividad"</TextBlock>
+                    </StackPanel>
+                </Button.ToolTip>
+            </Button>
+            <Button Name="btnQuitarfiltro" BorderBrush="#FF2C2A2A" Margin="0,209,0,248" Style="{DynamicResource SquareButtonStyle}" Click="BtnQuitarfiltro_Click">
+                <DockPanel VerticalAlignment="Center" HorizontalAlignment="Center" Height="23">
+                    <TextBlock Width="80" Height="23" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="14">Quitar Filtro</TextBlock>
+                </DockPanel>
+                <Button.ToolTip>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold">Quitar filtro</TextBlock>
+                        <TextBlock FontWeight="Bold" FontStyle="Oblique">Se muestra lista completa sin aplicar filtros</TextBlock>
+                    </StackPanel>
+                </Button.ToolTip>
+            </Button>
+        </Grid>
+        <Label Content="Rut" HorizontalAlignment="Left" Margin="405,34,0,0" VerticalAlignment="Top" FontSize="14" Width="170" RenderTransformOrigin="0.5,0.5"/>
+        <Label Content="Tipo Empresa" HorizontalAlignment="Right" Margin="0,83,455,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label Content="Actividad" HorizontalAlignment="Left" Margin="405,141,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <TextBox x:Name="txtBuscador" HorizontalAlignment="Left" Height="32" Margin="504,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="240"/>
+        <ComboBox x:Name="cbxlistTipoEmp" HorizontalAlignment="Left" Margin="504,83,0,0" VerticalAlignment="Top" Width="240" Height="32">
+            <ComboBox.ToolTip>
+                <StackPanel>
+                    <TextBlock FontWeight="Bold">Tipo Empresa</TextBlock>
+                    <TextBlock FontWeight="Bold" FontStyle="Oblique">Seleccionar tipo empresa a buscar</TextBlock>
+                </StackPanel>
+            </ComboBox.ToolTip>
+        </ComboBox>
+        <ComboBox x:Name="cbxListAct" HorizontalAlignment="Left" Margin="504,137,0,0" VerticalAlignment="Top" Width="240" Height="32">
+            <ComboBox.ToolTip>
+                <StackPanel>
+                    <TextBlock FontWeight="Bold">Actividad</TextBlock>
+                    <TextBlock FontWeight="Bold" FontStyle="Oblique">Seleccionar Actividad a buscar</TextBlock>
+                </StackPanel>
+            </ComboBox.ToolTip>
+        </ComboBox>
+        <DataGrid AutoGenerateColumns="False" Name="dtgClientes" Margin="240,206,10,10">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="dtgRutclie" Header="Rut Cliente" Binding="{Binding Path=RutCliente}" Width="*"/>
+                <DataGridTextColumn x:Name="dtgRazonsocial" Header="Razon Social" Binding="{Binding Path=RazonSocial}" Width="*" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgNombreCont" Header="Nombre" Binding="{Binding Path=NombreContacto}" Width="*" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgMail" Header="Correo" Binding="{Binding Path=MailContacto}" Width="*" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgDireccion" Header="Direccion" Binding="{Binding Path=Direccion}" Width="*" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgTelefono" Header="Telefono" Binding="{Binding Path=Telefono}" Width="*" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgActividad" Header="Actividad" Binding="{Binding Path=DescripcionTipoAct1}" Width="*" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgTipoEmp" Header="Tipo Empresa" Binding="{Binding Path=DescripcionTipoe}" Width="*" IsReadOnly="True"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Controls:MetroWindow>

@@ -1,0 +1,77 @@
+﻿<Controls:MetroWindow x:Name="listaContratos" x:Class="OnBreak1._1.ListaContratos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnBreak1._1"
+        mc:Ignorable="d"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Lista de Contratos" Height="560.844" Width="1182.95"
+        BorderThickness="0" 
+        GlowBrush="Black" Icon="Imagenes/dark_logo_transparent_background.png" Background="#FF2C2A2A" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid Margin="0,0,932,0" Background="Black">
+            <Button Name="btnAtras" Margin="0,310,0,0" Background="Black" Click="BtnAtras_Click_1">
+                <Image HorizontalAlignment="Center" Height="248" VerticalAlignment="Center" Width="240" Source="Imagenes/white_logo_dark_background.jpg" Opacity="0.5"></Image>
+            </Button>
+            <Label Content="Filtrar" VerticalAlignment="Center" HorizontalAlignment="Center" Height="36" Margin="102,10,90,486" FontSize="16" Width="53"></Label>
+            <Button Name="btnQuitarfiltro" BorderBrush="#FF2C2A2A" Margin="0,245,0,227" Style="{DynamicResource SquareButtonStyle}" Click="BtnQuitarfiltro_Click">
+                <DockPanel VerticalAlignment="Center" HorizontalAlignment="Center" Height="23">
+                    <TextBlock Width="70" Height="23" VerticalAlignment="Center" HorizontalAlignment="Center">Quitar Filtro</TextBlock>
+                </DockPanel>
+            </Button>
+            <Button Name="btnBuscNumcont" BorderBrush="#FF2C2A2A" Margin="0,46,0,438" Style="{DynamicResource SquareButtonStyle}" Click="BtnBuscNumcont_Click">
+                <DockPanel Width="180">
+                    <Image x:Name="imgBuscNumcont" Source="Imagenes\IconoBuscar.png" Height="27" Width="32"></Image>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Height="18" Width="119">Filtrar por Numero</TextBlock>
+                </DockPanel>
+            </Button>
+            <Button Name="btnBuscRut" BorderBrush="#FF2C2A2A" Margin="0,94,0,389" Style="{DynamicResource SquareButtonStyle}" Click="BtnBuscRut_Click">
+                <DockPanel Width="180">
+                    <Image x:Name="imgBuscadorrut" Source="Imagenes\IconoBuscar.png" Height="27" Width="32"></Image>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Height="19" Width="122">Filtrar por Rut</TextBlock>
+                </DockPanel>
+            </Button>
+            <Button Name="btnBusctipoe" BorderBrush="#FF2C2A2A" Margin="0,143,0,337" Style="{DynamicResource SquareButtonStyle}" Click="BtnBusctipoe_Click" RenderTransformOrigin="0.5,0.5">
+                <DockPanel Width="185">
+                    <Image x:Name="imgBuscadortipoe" Source="Imagenes\IconoBuscar.png" Height="27" Width="35"></Image>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Filtrar por Tipo Evento</TextBlock>
+                </DockPanel>
+            </Button>
+            <Button Name="btnBuscMod" BorderBrush="#FF2C2A2A" Margin="0,195,0,287" Style="{DynamicResource SquareButtonStyle}" Click="BtnBuscMod_Click">
+                <DockPanel Height="25" Width="220">
+                    <Image x:Name="imgBuscmod" Source="Imagenes\IconoBuscar.png" Height="27" Width="62" Margin="0,0,0,-2"></Image>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left">Filtrar por Modalidad</TextBlock>
+                </DockPanel>
+            </Button>
+        </Grid>
+        <TextBox x:Name="txtNumCont" HorizontalAlignment="Left" Height="23" Margin="631,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="204"/>
+        <Label Content="Numero Contrato" HorizontalAlignment="Left" Margin="497,21,0,0" VerticalAlignment="Top" FontSize="12"/>
+        <Label Content="Rut Cliente" HorizontalAlignment="Left" Margin="497,65,0,0" VerticalAlignment="Top"/>
+        <Label Content="Tipo Evento" HorizontalAlignment="Left" Margin="497,109,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.544,1.324"/>
+        <Label Content="Modalidad Serv." HorizontalAlignment="Left" Margin="497,154,0,0" VerticalAlignment="Top" Width="104"/>
+        <TextBox x:Name="txtRutClie" HorizontalAlignment="Left" Height="23" Margin="631,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="204"/>
+        <ComboBox x:Name="cbxTipEve" HorizontalAlignment="Left" Margin="631,109,0,0" VerticalAlignment="Top" Width="204"/>
+        <ComboBox x:Name="cbxMod" HorizontalAlignment="Left" Margin="631,154,0,0" VerticalAlignment="Top" Width="204"/>
+        <DataGrid AutoGenerateColumns="False" Name="dtgContratos" Margin="250,225,0,10" ScrollViewer.CanContentScroll="True"
+                  ScrollViewer.IsDeferredScrollingEnabled="False" ScrollViewer.HorizontalScrollBarVisibility="Visible">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="dtgNumero" Header="ID" Binding="{Binding Path=Numero}"/>
+                <DataGridTextColumn x:Name="dtgCreacion" Header="Creacion" Binding="{Binding Path=Creacion}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgTermino" Header="Termino" Binding="{Binding Path=Termino}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgrut" Header="Rut Cliente" Binding="{Binding Path=RutCliente}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgModalidad" Header="Modalidad" Binding="{Binding Path=DescripcionModalidad}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgTipo" Header="TipoEvento" Binding="{Binding Path=DescripcionTipoEvento}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgHoraini" Header="Hora Inicio" Binding="{Binding Path=FechaHoraInicio}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgHoraTer" Header="Hora Termino" Binding="{Binding Path=FechaHoraTermino}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgAsis" Header="Asistentes" Binding="{Binding Path=Asistentes}"  IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgPersonal" Header="Personal extra" Binding="{Binding Path=PersonalAdicional}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgVigencia" Header="Es vigente" Binding="{Binding Path=Realizado}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgValor" Header="Valor Total" Binding="{Binding Path=ValorTotalContrato}" IsReadOnly="True"/>
+                <DataGridTextColumn x:Name="dtgObs" Header="Observaciones" Binding="{Binding Path=Observaciones}" IsReadOnly="True"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Controls:MetroWindow>

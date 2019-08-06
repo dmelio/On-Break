@@ -1,0 +1,42 @@
+﻿<Controls:MetroWindow x:Class="OnBreak1._1.Cocktail"
+        Controls:ButtonHelper.PreserveTextCase="True"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnBreak1._1"
+        mc:Ignorable="d"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="OnBreak - Cocktail" Height="450" Width="734.203"
+        BorderThickness="0" 
+        GlowBrush="Black" Icon="Imagenes/dark_logo_transparent_background.png" Background="#FF2C2A2A" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid Margin="0,0,498,0" Background="Black">
+            <Button x:Name="btnCancelar" BorderBrush="#FF2C2A2A" Style="{DynamicResource SquareButtonStyle}" Margin="-1,339,0,10" Content="Cancelar" Click="BtnCancelar_Click"></Button>
+            <Button x:Name="btnAceptar" BorderBrush="#FF2C2A2A" Style="{DynamicResource SquareButtonStyle}" Margin="0,263,-1,86" Content="Aceptar" Click="BtnAceptar_Click"></Button>
+            <Label Margin="0,0,0,369" Content="Informacion" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="16"></Label>
+            <Label Margin="38,93,54,295" Content="Quick Cocktail" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="16"></Label>
+            <Label Margin="38,176,33,212" Content="Ambient Cocktail" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="16"></Label>
+        </Grid>
+        <Label Content="Personal Base:" HorizontalAlignment="Left" Margin="573,286,0,0" VerticalAlignment="Top"/>
+        <Label Content="Valor Base(UF)" HorizontalAlignment="Left" Margin="575,342,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblPersonalBase" Content="" HorizontalAlignment="Left" Margin="663,286,0,0" VerticalAlignment="Top" Background="#FFF7F7F7" Foreground="Black" Width="27"/>
+        <Label x:Name="lblValorBase" Content="" HorizontalAlignment="Left" Margin="666,342,0,0" VerticalAlignment="Top" Width="27" Background="#FFF9F1F1" Foreground="#FF050303"/>
+        <Label Content="Ambientacion" HorizontalAlignment="Left" Margin="255,70,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cbxAmbient" HorizontalAlignment="Left" Margin="372,70,0,0" VerticalAlignment="Top" Width="189"/>
+        <RadioButton x:Name="rbMusicaAmb" Content="Musica Ambiental" HorizontalAlignment="Left" Margin="262,125,0,0" VerticalAlignment="Top" GroupName="MusicaCocktail"/>
+        <RadioButton x:Name="rbMusicaClie" Content="Musica Cliente" HorizontalAlignment="Left" Margin="420,125,0,0" VerticalAlignment="Top" GroupName="MusicaCocktail"/>
+        <Label Content="Modalidad" HorizontalAlignment="Left" Margin="255,182,0,0" VerticalAlignment="Top"/>
+        <Label Content="Cantidad asistentes" HorizontalAlignment="Left" Margin="255,235,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.566,0.098"/>
+        <Label Content="Personal Adicional" HorizontalAlignment="Left" Margin="255,286,0,0" VerticalAlignment="Top"/>
+        <Label Content="Valor total" HorizontalAlignment="Left" Margin="255,342,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.003,0.684"/>
+        <ComboBox x:Name="cbxMod" HorizontalAlignment="Left" Margin="372,181,0,0" VerticalAlignment="Top" Width="189" SelectionChanged="CbxMod_SelectionChanged"/>
+        <TextBox x:Name="txtCantAsis" HorizontalAlignment="Left" Height="23" Margin="372,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189"/>
+        <TextBox x:Name="txtPerAdd" HorizontalAlignment="Left" Height="23" Margin="372,286,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189"/>
+        <TextBox x:Name="txttotal" HorizontalAlignment="Left" Height="23" Margin="372,342,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189"/>
+        <Label Content="Numero contrato" HorizontalAlignment="Left" Margin="255,14,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNumero" HorizontalAlignment="Left" Height="23" Margin="372,16,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189"/>
+    </Grid>
+</Controls:MetroWindow>

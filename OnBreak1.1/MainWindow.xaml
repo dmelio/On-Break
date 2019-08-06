@@ -1,0 +1,79 @@
+﻿<Controls:MetroWindow x:Name="MainMenu" x:Class="OnBreak1._1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnBreak1._1"
+        mc:Ignorable="d"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Menu Principal" Height="457.521" Width="598.695" ResizeMode="NoResize" 
+        WindowStartupLocation="CenterScreen" Background="#FF2C2A2A"
+        BorderThickness="0" 
+        GlowBrush="Black" Icon="imagenes/dark_logo_transparent_background.png">
+    <Grid Margin="0,0,4,18">
+        <Grid Margin="10,10,10,-15" Background="Black">
+            <Button Name="btnAdministrarClientes" Style="{DynamicResource SquareButtonStyle}" Margin="0,0,278,255" BorderBrush="#FF2C2A2A" FontSize="16" Click="BtnAdministrarClientes_Click">
+                <DockPanel Width="281">
+                    <Image Source="imagenes\IconoUser.png" Height="68" Width="89"></Image>
+                    <TextBlock Height="22" Width="151">Administrar Clientes</TextBlock>
+                </DockPanel>
+                <Button.ToolTip>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold">Administrar Clientes</TextBlock>
+                        <TextBlock FontWeight="Bold" FontStyle="Oblique">Muestra ventana para Crear,Modificar o Eliminar clientes</TextBlock>
+                    </StackPanel>
+                </Button.ToolTip>
+            </Button>
+            <Button Name="btnListaClientes" Style="{DynamicResource SquareButtonStyle}"  Margin="296,0,0,255" BorderBrush="#FF2C2A2A" FontSize="16" Click="BtnListaClientes_Click">
+                <DockPanel Width="263" Height="88">
+                    <Image Source="imagenes\IconoLista.png" Width="89" Margin="0,0,0,20"/>
+                    <TextBlock Width="130" Margin="0,24,0,33">Lista de Clientes</TextBlock>
+                </DockPanel>
+                <Button.ToolTip>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold">Lista de Clientes</TextBlock>
+                        <TextBlock FontWeight="Bold" FontStyle="Oblique">Muestra Ventana para visualizar Listado  de clientes registrados en el sistema</TextBlock>
+                    </StackPanel>
+                </Button.ToolTip>
+            </Button>
+            <Button Name="btnAdministrarContratos" Margin="0,161,278,89" Style="{DynamicResource SquareButtonStyle}" BorderBrush="#FF2C2A2A" FontSize="16" Click="BtnAdministrarContratos_Click">
+                <DockPanel Width="281" Height="88">
+                    <Image Source="imagenes\IconoCont.png" Width="89" Margin="0,0,0,20"/>
+                    <TextBlock Width="163" Margin="0,24,0,33">Administrar Contratos</TextBlock>
+                </DockPanel>
+                <Button.ToolTip>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold">Administrar Contratos</TextBlock>
+                        <TextBlock FontWeight="Bold" FontStyle="Oblique">Muestra ventana para Crear,Modificar o Eliminar clientes del sistema</TextBlock>
+                    </StackPanel>
+                </Button.ToolTip>
+            </Button>
+            <Button Name="btnListaContratos" Margin="296,161,0,89" Style="{DynamicResource SquareButtonStyle}" BorderBrush="#FF2C2A2A" FontSize="16" Click="BtnListaContratos_Click">
+                <DockPanel Width="247" Height="88">
+                    <Image Source="imagenes\IconoLista.png" Width="89" Margin="0,0,0,20"/>
+                    <TextBlock Width="136" Margin="0,24,0,33">Lista de Contratos</TextBlock>
+                </DockPanel>
+                <Button.ToolTip>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold">Lista de Clientes</TextBlock>
+                        <TextBlock FontWeight="Bold" FontStyle="Oblique">Muestra Ventana para visualizar Listado  de Contratos registrados en el sistema</TextBlock>
+                    </StackPanel>
+                </Button.ToolTip>
+            </Button>
+            <Button x:Name="btnSalir" Margin="0,327,0,0" Style="{DynamicResource SquareButtonStyle}" BorderBrush="#FF2C2A2A" FontSize="16" Click="BtnSalir_Click">
+                <DockPanel Width="311" Height="69">
+                    <Image Source="imagenes\logo_transparent_background.png" Width="89"/>
+                    <TextBlock HorizontalAlignment="Center" Width="39" Margin="0,24,0,25">Salir</TextBlock>
+                </DockPanel>
+                <Button.ToolTip>
+                    <StackPanel>
+                        <TextBlock FontWeight="Bold">Salir</TextBlock>
+                        <TextBlock FontWeight="Bold" FontStyle="Oblique">Cerrar aplicacion</TextBlock>
+                    </StackPanel>
+                </Button.ToolTip>
+            </Button>
+        </Grid>
+    </Grid>
+</Controls:MetroWindow>
